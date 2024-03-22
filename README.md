@@ -4,7 +4,7 @@
 <h3 align="center">I am <b>Self Taught Java Developer From India</b></h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0x1Luffy&label=Profile%20views&color=0e75b6&style=flat" alt="Anuj" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xANUJx18&label=Profile%20views&color=0e75b6&style=flat" alt="Anuj" /> </p>
 
 
 - 🌱 I’m currently learning **Java Full Stack**
