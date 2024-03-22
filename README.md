@@ -1,4 +1,4 @@
-<section align="center"><img src="https://i.ibb.co/7QXxbKR/wepik-hand-drawn-tokyo-anime-banner-20230914200214-HZl3.jpg"/></section>
+<section align="center"><img src="[https://i.ibb.co/7QXxbKR/wepik-hand-drawn-tokyo-anime-banner-20230914200214-HZl3.jpg](https://i.ibb.co/tsjLjzn/wepik-hand-drawn-tokyo-anime-banner-20240322065848-A1-OT.png)"/></section>
 
 <h1 align="center">Hi 👋, I'm Anuj Mhatre</h1>
 <h3 align="center">I am <b>Self Taught Java Developer From India</b></h3>
